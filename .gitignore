@@ -1,0 +1,12 @@
+demo
+node_modules
+reports
+test/integration/config.ts
+/lib
+*.js
+*.js.map
+!gulpfile.js
+!build/**
+!.eslintrc.js
+.nyc_output/
+coverage/

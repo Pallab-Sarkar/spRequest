@@ -1,0 +1,10 @@
+/src
+/reports
+test
+/build
+/typings
+.vscode
+*.js.map
+/coverage
+/.nyc_output
+!/lib
